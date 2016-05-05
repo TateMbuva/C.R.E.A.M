@@ -1,0 +1,27 @@
+{
+  "name": "backend-api",
+  "version": "1.0.0",
+  "description": "Backend C.R.E.A.M app, provides api endpoints for multiple clients,",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "rest",
+    "restful",
+    "code",
+    "learning",
+    "course",
+    "javascript",
+    "python"
+  ],
+  "author": "Tatenda Mbuwayesango",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "lokijs": "^1.3.16"
+  }
+}
